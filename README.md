@@ -9,8 +9,6 @@
 
 ![](https://raw.githubusercontent.com/laprasdrum/github-profile/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 
-<script src="https://gist.github.com/laprasdrum/667213ab364ef2536a30f3bdb79c77bb.js"></script>
-[gist id=667213ab364ef2536a30f3bdb79c77bb]
 <!--
 **laprasdrum/laprasdrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
