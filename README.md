@@ -4,7 +4,7 @@
 - 🌱 Zapier automation
   - [fetch ZenHub issues](https://gist.github.com/laprasdrum/b9e3afa643cdad4d379c5159a3e14854) 
 - 😄 He/Him
-- 🥁 Drummer
+- 🥁 Drummer https://www.instagram.com/laprasdrum/
 - 📝 https://note.com/laprasdrum (jp only)
 
 ![](https://raw.githubusercontent.com/laprasdrum/github-profile/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
