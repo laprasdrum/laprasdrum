@@ -1,8 +1,16 @@
-### laprasdrum
+### Yuya Moriguchi (lap)
 
-- 🔭 works as Mobile Engineer (iOS mainly, also write Android, RoR, Node.js, TS, Rust, etc.)
-- 🌱 Zapier automation
-  - [fetch ZenHub issues](https://gist.github.com/laprasdrum/b9e3afa643cdad4d379c5159a3e14854) 
+- 🔭 works as software engineer
+  - current interests
+    - Swift
+    - TypeScript
+    - Vue.js
+  - also write
+    - Objective-C
+    - Kotlin
+    - Rust
+    - Ruby
+    - Python
 - 😄 He/Him
 - 🥁 Drummer https://www.instagram.com/laprasdrum/
 - 📝 https://note.com/laprasdrum (jp only)
